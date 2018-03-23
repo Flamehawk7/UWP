@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Flame-Striker\Documents\Visual Studio 2017\Projects\DataInThePocketApp\DataInThePocketApp\bin\x86\Release\DataInThePocketApp_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\Flame-Striker\Documents\Visual Studio 2017\Projects\DataInThePocketApp\DataInThePocketApp\AppPackages\DataInThePocketApp_1.0.0.0_Test\DataInThePocketApp_1.0.0.0_x86.appxsym
